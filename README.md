@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-GOOD MORNING!
+Printing Hello World on console.
